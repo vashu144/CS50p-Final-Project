@@ -5,7 +5,13 @@
 # WHAT IS FUNIME ? 
 It is an interactive space providing the user with various games.
 
-***PROJECT CONTENT***
+# Games
+1. ****Snake Water ans Gun****
+2. ****Math Quizz )****
+3. ****FLAMES****
+4. ****Magic 8 Ball****
+
+# ****PROJECT CONTENT***8
 1. README.md
 2. funime.py
 3. test_funime.py
