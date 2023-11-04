@@ -30,7 +30,7 @@ It is an interactive space providing the user with various games.
 
 
 # How to start Funime?
-You can start Funime by writing command `python funime.py`
+You can start Funime by writing command `python project.py`
 
 
 # About the games:
