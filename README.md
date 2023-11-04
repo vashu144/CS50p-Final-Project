@@ -11,7 +11,7 @@ It is an interactive space providing the user with various games.
 3. ****FLAMES****
 4. ****Magic 8 Ball****
 
-# ****PROJECT CONTENT***8
+# ****PROJECT CONTENT****
 1. README.md
 2. funime.py
 3. test_funime.py
