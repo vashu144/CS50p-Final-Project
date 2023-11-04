@@ -1,6 +1,6 @@
 # Funime
 
-****Video URL**** : https://youtu.be/CPyOqGz2p5o?si=eOQ17BTQXz7bxEds
+****Video URL**** :https://youtu.be/7JCosMTf1rQ?si=PL1IW-I9gdpoR4v9
 
 # WHAT IS FUNIME ?
 It is an interactive space providing the user with various games.
