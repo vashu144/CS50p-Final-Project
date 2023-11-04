@@ -1,4 +1,4 @@
-from funime import game ,  winner , Magicball , FLAMES , flames
+from project import game ,  winner , Magicball , FLAMES , flames
 
 def main():
     test_game()
